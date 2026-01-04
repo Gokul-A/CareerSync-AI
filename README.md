@@ -76,3 +76,13 @@ The system is built on **LangGraph**, treating the job hunt as a state machine.
 **Analyze Mode:** Upload your resume (PDF). The agent will retrieve the most relevant jobs you've found and score them based on your actual experience.
 
 **View Mode:** Browse your saved job history and track your application pipeline.
+
+
+## App Preview
+![Home screen](images/HomePage.png)
+
+![Job Search](images/JobSearch.png)
+
+![View Jobs in DB](images/ViewJobs_in_db.png)
+
+![Resume Analyzer](images/ResumeAnalyzer.png)
