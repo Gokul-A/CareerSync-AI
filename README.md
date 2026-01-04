@@ -77,6 +77,8 @@ The system is built on **LangGraph**, treating the job hunt as a state machine.
 
 **View Mode:** Browse your saved job history and track your application pipeline.
 
+## Agent Workflow
+![Agent Workflow](images/AgentWorkFlow.png)
 
 ## App Preview
 ![Home screen](images/HomePage.png)
